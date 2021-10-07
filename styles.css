@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.illustration{
+    width: 600px;
+    height: auto;
+    margin: 0px auto;
+    padding-top: 200px;
+
+}
+svg{
+    width: 100%;
+}
+
+/* .letters g{
+    transform: translate(50%,57px);
+    opacity: 0;
+} */
